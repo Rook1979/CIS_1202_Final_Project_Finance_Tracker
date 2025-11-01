@@ -13,6 +13,8 @@
 
 # Linker files
 *.ilk
+*.iml
+*.idea
 
 # Debugger Files
 *.pdb
@@ -21,6 +23,9 @@
 *.so
 *.dylib
 *.dll
+*.xml
+*.yml
+*.txt
 
 # Fortran module files
 *.mod
@@ -39,3 +44,4 @@
 
 # debug information files
 *.dwo
+
